@@ -9,6 +9,7 @@ body{
     align-items: center;
     background-color: #efedd6;
     overflow-x: hidden;
+    text-align: center;
 }
 
 h1{
@@ -43,7 +44,7 @@ h1{
     h1{
         font-size: 36px;
     }
-    
+
     .box{
         width: 200px;
         height: 100px;
